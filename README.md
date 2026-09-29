@@ -1,2 +1,7 @@
-# Puente_DSW_Ubuntu
-Repositorio para pasar ficheros a Ubuntu DSW 26.04 Proyecto
+## Primera ejecución de Laravel
+```bash
+cd proyecto-laravel
+php artisan serve
+```
+Abrir en el navegador:
+http://127.0.0.1:8000/dsw
